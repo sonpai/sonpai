@@ -27,6 +27,5 @@
 ## 📫 How To Reach Me
 
 📧 Email: sofiako2003@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/sofia-kononenko-449175376/  
 
 ---
