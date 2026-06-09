@@ -1,6 +1,6 @@
 ## Hi there i'm Sofia Kononenko👋
 
-🚀 Software Engineer | QA | Automation
+🚀 QA | Manual | Automation | Python • SQL
 📍 Haifa, Israel  
 💻 Passionate about building real-world web applications and improving every day.
 
